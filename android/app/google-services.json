@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "935538386093",
+    "project_id": "helios-pizza",
+    "storage_bucket": "helios-pizza.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:935538386093:android:fba5e3e62b66b2daae5224",
+        "android_client_info": {
+          "package_name": "com.helios.admin.helios_admin"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyACzbaBR8XmpPKnMZ6L_k5o6hAVIZKY8x0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:935538386093:android:d4834aa8133f86aeae5224",
+        "android_client_info": {
+          "package_name": "com.helios.helios"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyACzbaBR8XmpPKnMZ6L_k5o6hAVIZKY8x0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
