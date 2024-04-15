@@ -23,4 +23,6 @@ samples, guidance on mobile development, and a full API reference.
 ![Screenshot_2024-04-15-16-30-47-94_9287a9faaad010a6d93821ec3616294d](https://github.com/ParthPatel128/helios/assets/164461459/1f002ad0-5615-43ee-a56a-1aec08655861)
 ![Screenshot_2024-04-15-16-33-39-37_9287a9faaad010a6d93821ec3616294d](https://github.com/ParthPatel128/helios/assets/164461459/a23f359a-cd00-4813-8c39-a6f4ae935b7e)
 ![Screenshot_2024-04-15-16-35-15-24_9287a9faaad010a6d93821ec3616294d](https://github.com/ParthPatel128/helios/assets/164461459/896b0c2f-7b94-4ab5-991c-972873da6c7c)
+![Screenshot_2024-04-15-16-35-51-94_9287a9faaad010a6d93821ec3616294d](https://github.com/ParthPatel128/helios/assets/164461459/36fef470-fc65-41ff-9e89-80959bec3fef)
+![Screenshot_2024-04-15-16-37-18-65_9287a9faaad010a6d93821ec3616294d](https://github.com/ParthPatel128/helios/assets/164461459/06a427e8-75ab-4dc1-8a00-d7b372893f2e)
 
